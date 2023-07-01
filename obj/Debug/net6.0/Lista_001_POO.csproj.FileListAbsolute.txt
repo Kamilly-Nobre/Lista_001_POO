@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\bin\Debug\net6.0\Lista_001_POO.exe
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\bin\Debug\net6.0\Lista_001_POO.deps.json
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\bin\Debug\net6.0\Lista_001_POO.runtimeconfig.json
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\bin\Debug\net6.0\Lista_001_POO.dll
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\bin\Debug\net6.0\Lista_001_POO.pdb
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.dll
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\refint\Lista_001_POO.dll
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.pdb
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\Lista_001_POO.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Documentos\Códigos\Lista_001_POO\obj\Debug\net6.0\ref\Lista_001_POO.dll
